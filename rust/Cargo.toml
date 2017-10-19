@@ -1,0 +1,7 @@
+[package]
+name = "war-rust"
+version = "0.1.0"
+authors = ["Michael Snoyman <michael@snoyman.com>"]
+
+[dependencies]
+rand = "0.3"
